@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful nevves from VVhite-Hall: or, The mighty visions proceeding from Mistris Anna Trapnel, to divers collonels, ladies, and gentlewomen, concerning the government of the commonwealth of England, Scotland, and Ireland; and her revelations touching his Highness, the Lord Protector, and the army. With her declaration touching the state-affairs of Great-Brittain; even from the death of the late King Charles, to the dissolution of the last Parliament. And the manner how she lay eleven dayes, and twelve nights in a trance, without taking any sustenance, except a cup of small beer once in 24 hours: during which time, she uttered many things herein mentioned, relating to the governors, churches, ministry, universities, and all the three nations; full of wonder and admiration, for all that shall read and peruse the same.</title>
+            <author>Trapnel, Anna.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94795</idno>
+            <idno type="STC">Wing T2034</idno>
+            <idno type="STC">Thomason E224_3</idno>
+            <idno type="STC">ESTC R3949</idno>
+            <idno type="EEBO-CITATION">99872546</idno>
+            <idno type="PROQUEST">99872546</idno>
+            <idno type="VID">124985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124985)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 39:E224[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful nevves from VVhite-Hall: or, The mighty visions proceeding from Mistris Anna Trapnel, to divers collonels, ladies, and gentlewomen, concerning the government of the commonwealth of England, Scotland, and Ireland; and her revelations touching his Highness, the Lord Protector, and the army. With her declaration touching the state-affairs of Great-Brittain; even from the death of the late King Charles, to the dissolution of the last Parliament. And the manner how she lay eleven dayes, and twelve nights in a trance, without taking any sustenance, except a cup of small beer once in 24 hours: during which time, she uttered many things herein mentioned, relating to the governors, churches, ministry, universities, and all the three nations; full of wonder and admiration, for all that shall read and peruse the same.</title>
+                  <author>Trapnel, Anna.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Sele,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>MDCLIV. [1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March: ye 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Visions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124985:1" rendition="simple:additions"/>
+            <p>Strange and Wonderful NEVVES FROM VVHITE-HALL: OR, The Mighty Viſions PROCEEDING From Miſtris ANNA TRAPNEL, to divers Collonels, Ladies, and Gentlewomen, concerning the Government of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> And Her <hi>Revelations</hi> touching his Highneſs the Lord Protector, and the ARMY.</p>
+            <p>With her <hi>Declaration</hi> touching the State-Affairs of <hi>Great-Brittain;</hi> Even from the Death of the late King CHARLES, to the Diſſolution of the laſt PARLIAMENT.</p>
+            <p>And the manner how ſhe lay eleven dayes, and twelve nights in a Trance, without taking any ſuſtenance, except a cup of ſmall Beer once in 24 hours: during which time, ſhe uttered many things herein mentioned, relating to the Go<g ref="char:EOLhyphen"/>vernors, Churches, Miniſtry, Univerſities, and all the three Nations; full of Wonder and Ad<g ref="char:EOLhyphen"/>miration, for all that ſhall read and peruſe the ſame.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for ROBERT SELE, MDCLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124985:2"/>
+            <pb n="3" facs="tcp:124985:2"/>
+            <head>Strange and wonderful Viſions from <hi>White-hall.</hi>
+            </head>
+            <p>VPon the 7 day of the 11 month called <hi>Ianu.</hi> being the 6 day of the week, or Fryday, Mr. <hi>Powel</hi> Miniſter of the Goſpel in <hi>Wales,</hi> being brought before the Council at White hall, to give an ac<g ref="char:EOLhyphen"/>count of ſome things by him delivered in his publike Exerciſes: A<g ref="char:EOLhyphen"/>mong many other friends who come to ſee what would be done with him, there came a maid, Mrs. <hi>Anna Trapnel</hi> by name, who waiting in a little room neer the Council door, where there was a fire; amongſt many others ſhe ſtaid for Mr. <hi>Powels</hi> coming forth, and then intend<g ref="char:EOLhyphen"/>ing to return home, ſhe was beyond yet own thoughts or intentions, having much trouble in her thoughts; and being as it were ſeized by the Lord, ſhe was carryed forth in. Spirit of prayer and finging from noon till night, and went down into Mr. <hi>Roberts</hi> Lodging, who kept the Ordinary in White-hall, and finding her natural ſtrength going from her, ſhe took her bed about eleven of the clock in the night, where ſhe lay from that day being the 7 day of the month, to the 19 day of the ſame month, in all 12 dayes together: the firſt five dayes ſhe neither eat nor drank: and the reſt of the time, once in 24 ho: ſometimes a very little toaſt in ſmall beer; ſometimes onely chewed it, and took down the moyſture; ſometimes ſhe drank of the ſmall beer, and ſometimes onely waſht her mouth therewith, and then caſt it forth, lying in bed with her eyes ſhut, and her hands ſeldom ſeen to move; She delivered in that time many and various things, ſpeak<g ref="char:EOLhyphen"/>ing every day 3 or 4 hours, and ſometimes praying both night and day, and ſinging ſpiritual ſongs; which many eminent perſons hearing of,
+<pb n="4" facs="tcp:124985:3"/>amongſt the reſt, came Col. <hi>Sydenham</hi> (a member of the Council) Col. <hi>Weſt,</hi> Col. <hi>Bennet,</hi> with his wife, Col. <hi>Bingham,</hi> the Lady <hi>Dercy,</hi> the Lady <hi>Vermuden,</hi> and divers others; who heard her declare as fol<g ref="char:EOLhyphen"/>loweth, to wit, That 7 years ſince ſhe being ſick of a Feaver, and gi<g ref="char:EOLhyphen"/>ven over by all her friends as one not like to live, the Lord then gave her faith to believe from that Scripture, After two dayes I will re<g ref="char:EOLhyphen"/>vive thee, and the 30 day I will raiſe thee up, and thou ſhalt live in my ſight; which two days I underſtood to be two weeks that I ſhold lye in that Feaver; and at that very time and hour that it took her, that very hour it left her; and accordingly from which time, the Lord made uſe of her for refreſhing of a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>flicted ones, and ſuch as were un<g ref="char:EOLhyphen"/>der temptation: and when that time was ended, ſhe being in her cham<g ref="char:EOLhyphen"/>ber, deſired of the Lord to know whether ſhe had done that which was off, and from himſelf, Reply was made to her, That ſhe ſhould approve her heart to God, and for that ſhe had been faithful in a little, ſhe ſhould be made an inſtrument of much more; for particu<g ref="char:EOLhyphen"/>lar ſoules ſhal not onely have benefit by her, but the Univerſality of Saints ſhal have diſcoveries of God through her: whereupon ſhee prayed that ſhe might be led by the ſtill waters, and honour God ſe<g ref="char:EOLhyphen"/>cretly, being conſcious to her ſelf of the deceitfulneſs of her own heart, looking upon her ſelf as the worſt amongſt Gods flock: where<g ref="char:EOLhyphen"/>upon the Lord tola her, that out of the mouthes of babes and ſuck<g ref="char:EOLhyphen"/>lings he would perfect his praiſe. After which ſhe had many Viſions, and Revelations touching the Government of the Nation, the Parl. Army, and Miniſtry, and having faſted nine days, nothing coming with<g ref="char:EOLhyphen"/>in her lips, ſhe had a moſt ſtrange Viſion of horns; ſhe ſaw fair Horns which were 4 Powers: the firſt was that of the Biſhops, which firſt Horn ſhe ſaw broken in two, and thrown aſide: then appeared the ſe<g ref="char:EOLhyphen"/>cond Horn, and joyned to it an head, and although it ſeemed to bee more white then the firſt, yet it endeavouring to get aloft it was ſud<g ref="char:EOLhyphen"/>denly pulled down and broken to pieces. The third Horn had many ſplinters joyned to it like to the skales of a fiſh, and this was preſent<g ref="char:EOLhyphen"/>ed to be a Parl. conſiſting of many men, having very fair and plauſible pretences of love: yet this Horn ſhe ſaw broken to pieces, and ſo ſcattered that not ſo much as one bit remained. Then ſhe ſaw the 4. Horn, and that was very ſhort, but very ſharp, and full of variety of co<g ref="char:EOLhyphen"/>lours
+<pb n="5" facs="tcp:124985:3"/>ſparkling red and white, and it was ſaid to her, that this laſt <hi>horn</hi> was different from the other three, becauſe of great proud and ſwel<g ref="char:EOLhyphen"/>ling words, and great promiſes of kindneſs ſhould go forth to it from all people, like unto that of <hi>Abſolom,</hi> ſpeaking good words to the people in the gate to draw their affections away from honeſt <hi>David.</hi> After this ſhe had a Viſion, wherein ſhe ſaw many Oaks, with ſpred<g ref="char:EOLhyphen"/>ing branches full of leaves; and preſently ſhe ſaw a very goodly tree for ſtature and compleatneſs every way, before which great Tree the reſt of the Oaks crumbled to duſt; which ſhe perceiving, deſired Scri<g ref="char:EOLhyphen"/>pture to make known to her the Viſion: whereupon Reply was made in the firſt of <hi>Iſaiah,</hi>—They ſhall be confounded in the Oakes which they have choſen.</p>
+            <p>Another Viſion ſhe had two nights before the Lord Protector was proclaimed; at which time ſhe ſaw a glorious Throne with wing<g ref="char:EOLhyphen"/>ed Angels flying before the throne, and crying, Holy, holy, holy, unto the Lord; the great one is coming down with terror to the enemies, and glory and deliverance to the ſincere, and them that are upright in the earth. In nother Viſion ſhe faw a great company of little child<g ref="char:EOLhyphen"/>ren walking on the earth, and a light ſhining round about them, and a very glorious perſon in the midſt of them, with a Crown on his head, ſpeaking theſe words: Theſe will I honour with my Reigning preſence in the midſt of them, and the Oppreſſor ſhall dye in the wil<g ref="char:EOLhyphen"/>derneſs.</p>
+            <p>When ſhe was at White-hall ſhe ſaw as it were great darkneſs on the earth, and a marvellous duſt like unto a thick miſt, or ſmoak, aſcending upward from the earth; and at a little diſtance a great com<g ref="char:EOLhyphen"/>pany of cattel, ſome like Buls, ſome like Oxen, and ſome leſſer cattel, their faces and heads like men, having on either ſide their heads a horn: for the foremoſt, his countenance was perfectly like unto —s and on a ſudden there was a great ſhout of thoſe that followed him, he being ſingled out alone, and the foremoſt and he looking back, they bowed themſelves unto him, and leaped up from the earth, and ſhewed much joy that he was become their Supream; and immediatly they fawning upon him, he ſeemed to run at her; and as he was neer to her breaſt with his horn an hand and arm graſped her ground, and a voice ſaid to her, I will be thy ſafety; and then he run at many precious
+<pb n="6" facs="tcp:124985:4"/>Saints that ſtood in his way, and that durſt look boldly in his face, he gave them many puſhes, ſcratching them with his hornes, and driving them into ſeveral houſes: he ran along ſtill; at length there was a great ſilence, and ſuddenly there brake forth great fury in the earth, and they were preſently ſcattered, their horns broken, and ſo tumbled into graves: With that ſhe brake forth, and ſang praiſe, and the Lord ſaid to her, Mark that Scripture, three horns ſhall ariſe, and a fourth ſhall come out different from the former, which ſhal be more terri<g ref="char:EOLhyphen"/>ble to the Saints then others that went before: though like a Lamb, as is ſpoken in the Revelations, in appearance a Lamb; but puſhing with his horns, like a Beaſt: being not onely one, but many, and much ſtrength joyned together.</p>
+            <p>Upon the tenth of <hi>Feb.</hi> or eleventh month, the Relator came into the chamber where ſhe lay, where he heard her making melody with a ſpiritual Song, and after ſhe had done ſinging, ſhe brake forth into theſe and the like words: It is not all the force in the World that can ſtrike one ſtroak againſt thine, but thou ſuffereſt them to come forth to try thine, Oh that thine could believe thee for the breaking of thine enemies as well as for the binding up of thine own people, all things under the Sun, all things before, in or round about you, ſhal work for your good, when you come to know more of the myſtery and life of the Scriptures, how will you praiſe his Highneſs? the Ene<g ref="char:EOLhyphen"/>my is ſtrong, Satan is ſtrong, Inſtruments are ſtrong, Temptations are ſtrong: but what ſtrengths are againſt thy flock, they cannot be with<g ref="char:EOLhyphen"/>out the Lyon, and Lyon-like Creatures: But oh! if thy ſervants ſuf<g ref="char:EOLhyphen"/>fer, let them not ſuffer through paſſion, or raſh words, but as Lambes: there is a zeal which is but from Nature, that a mans own Spirit may prompt him to but the zeal of God is accompanied with meekneſs, humility, grief for Chriſt: and ſeeing thou haſt taken thine Hand<g ref="char:EOLhyphen"/>maid into the Mount, who can keep in the ruſhing wind, who can rule the influences of the Heavenly Orizon; yea, who can ſtop thy Spirit; it is good to be in the Territories, in the Regions, where thou walkſt before thy ſervant: Oh, how glittering, how glorious are they: what ſparkings are there. Thou haſt yet a great Guſt to come upon the earth a great Wind that ſhal ſhake the Trees that now appear upon the Earth, that are full of the leaves of Profeſſion; but they have no<g ref="char:EOLhyphen"/>thing
+<pb n="7" facs="tcp:124985:4"/>but outward beauty an outward flouriſh; but thy Trees, Oh Lord, are full of ſap. A great number of people have ſaid, O let our Oaks ſtand, let them not be cut down: But ſayes the Lord, I will make you aſhamed in the Oaks that ye have choſen; and becauſe ye will have thoſe, I will now give you other Oaks: and what are they? a firſt, a ſecond, and a third Power, and they are broken one after ano<g ref="char:EOLhyphen"/>ther: But oh thine own have had a great hand in theſe things: thine have ſaid, We will have Oaks and Gardens, how have they run to and fro, ſaith the Lord? and now I will give you Gardens, but they ſhall have no Springs in them; but they ſhalbe as dry chopt ground; yea, as Fallow-ground: What lovelyneſs is there, to walk upon Fallow ground? you may have ſtumbling walkings upon them: you ſhal have no green graſs in theſe Gardens: what have all the Gardens of the Earth been? they have been as ſtumbling blocks to thine: But oh, thou wilt by theſe ſtrange wayes, draw up thine into thy upper and nether Springs: thou haſt deceived thy Saints once more about theſe Gardens let them now run after them no more: but be aſhamed and abaſhed, we have hankered from Mountain to Hill; We have ſaid Salvation is in this Hill, and in that Mountain: but let us not ſay ſo any longer: When we ſhalbe drawn up to thee; then we ſhal proſper; and thou wilt give us a Vinyard, and Gardens, and fru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tful Trees of thine own, which ſhall abide.</p>
+            <p>And after ſome repoſe ſhe ſang divers Hymnes, or ſpiritual Songs; and among other things ſpake as followeth:</p>
+            <p>Lord, let it be ſounded in their Ears, and let them mark, it will be as great ſuperfluity as ever, as great luſt, as great wickedneſs, as great enmity as ever; yea, and greater then before. Oh, they are all for them<g ref="char:EOLhyphen"/>ſelves; and doth not <hi>Sathan</hi> appear in their Feaſts, and in their Gar<g ref="char:EOLhyphen"/>ments, and in their Locks: yea, O Gideon, when in thine own Family there are thoſe that are naked and wanton, Oh let not this be found in thy Family. <hi>David</hi> had not ſuch in his Family; and if thou muſt rule the Nation, then be ſure to look into thine own Family, and rule that; but perhaps thou mayſt ſay; <hi>thou canst not rule them:</hi> O then re<g ref="char:EOLhyphen"/>member, what God ſaid to <hi>Ely</hi> of old, becauſe of his Sons, <hi>How can any go and cry out to King Ieſus, if he have him not in his own boſome.</hi> But oh, he is a ſealed One, then how beautiful will his Walks be; and if the
+<pb n="8" facs="tcp:124985:5"/>Spirit of Chriſt reign in his ſoul, then he may reign for Chriſt. O<g ref="char:EOLhyphen"/>therwiſe not. Therefore, you doubting <hi>Chriſtians,</hi> have a care that you have courage given into your harts, before you go out to plead againſt Antichriſt, the Devil and Wickedneſs, and come you Army-men, and acquaint your ſelves with the <hi>Lord Iehovah,</hi> for if you have not ac<g ref="char:EOLhyphen"/>quaintance with him, then all you have is nothing. Oh do juſtice, and do it for Juſtice-ſake, and not for by ends or reſpects: And then, oh <hi>Gideon,</hi> who art in the higheſt place, thou art not onely to do juſtice thy ſelf, but thou art to ſee juſtice done in all Places, Courts, or coun<g ref="char:EOLhyphen"/>cels, and Committees, that they may not feed upon the Poor. Thou art not onely to receive pleaſures at home, but to eſtabliſh Righte<g ref="char:EOLhyphen"/>ouſneſs abroad. Oh by your diligence make it manifeſt that you love juſtice and mercy, as you ſeem to do. Oh remember <hi>Abſolom,</hi> who was of a fair and gentle courage, and of a lovely nature, but it was to ſteal away the hearts of the People from his Father <hi>David.</hi> But God for<g ref="char:EOLhyphen"/>bid your Honour ſhould be ſtain'd with the leaſt Guilt thereof. And thus ſoon after ſhe ended in prayer and ſinging, having lain in bed 11 dayes and 12 nights together. After which time, ſhe roſe up in the morning, and the ſame day travelled on foot from White-hall to Hackney; and from thence back to <hi>Mark-lane</hi> in <hi>London</hi> in health and ſtrength.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124985:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
